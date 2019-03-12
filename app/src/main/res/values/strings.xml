@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">새벽</string>
+    <string name="app_name">Dawn</string>
     <string name="tcp">TCP</string>
     <string name="udp">UDP</string>
     <string name="quit">Quit</string>
@@ -12,6 +12,6 @@
     <string name="protocol">Protocol</string>
     <string name="length">Length</string>
     <string name="info">Info</string>
-    <string name="no_network_information">No active network connection in your device, please connect to network and start again.</string>
+    <string name="no_network_information">No active network connection, please connect to network and start again.</string>
     <string name="title_activity_detail">DetailActivity</string>
 </resources>
